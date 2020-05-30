@@ -54,6 +54,21 @@
     <ClCompile Include="Framework\GameObject.cpp">
       <Filter>Framework</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\..\..\..\Games Programmin%27 -CMP105\Weel 11\CMP105_W11\Week11\CMP105App\Tank.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\Games Programmin%27 -CMP105\Weel 11\CMP105_W11\Week11\CMP105App\Cannon.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\Games Programmin%27 -CMP105\Weel 11\CMP105_W11\Week11\CMP105App\MapSet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\Games Programmin%27 -CMP105\Weel 11\CMP105_W11\Week11\CMP105App\CannonBall.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\Games Programmin%27 -CMP105\Weel 11\CMP105_W11\Week11\CMP105App\Collision2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="README.txt">
@@ -96,6 +111,21 @@
     </ClInclude>
     <ClInclude Include="Framework\GameObject.h">
       <Filter>Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Games Programmin%27 -CMP105\Weel 11\CMP105_W11\Week11\CMP105App\Cannon.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Games Programmin%27 -CMP105\Weel 11\CMP105_W11\Week11\CMP105App\MapSet.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Games Programmin%27 -CMP105\Weel 11\CMP105_W11\Week11\CMP105App\Tank.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Games Programmin%27 -CMP105\Weel 11\CMP105_W11\Week11\CMP105App\CannonBall.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Games Programmin%27 -CMP105\Weel 11\CMP105_W11\Week11\CMP105App\Collision2.h">
+      <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

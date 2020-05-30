@@ -157,6 +157,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\..\..\..\Games Programmin%27 -CMP105\Weel 11\CMP105_W11\Week11\CMP105App\Cannon.cpp" />
+    <ClCompile Include="..\..\..\..\..\Games Programmin%27 -CMP105\Weel 11\CMP105_W11\Week11\CMP105App\CannonBall.cpp" />
+    <ClCompile Include="..\..\..\..\..\Games Programmin%27 -CMP105\Weel 11\CMP105_W11\Week11\CMP105App\Collision2.cpp" />
+    <ClCompile Include="..\..\..\..\..\Games Programmin%27 -CMP105\Weel 11\CMP105_W11\Week11\CMP105App\MapSet.cpp" />
+    <ClCompile Include="..\..\..\..\..\Games Programmin%27 -CMP105\Weel 11\CMP105_W11\Week11\CMP105App\Tank.cpp" />
     <ClCompile Include="Framework\Animation.cpp" />
     <ClCompile Include="Framework\AudioManager.cpp" />
     <ClCompile Include="Framework\Collision.cpp" />
@@ -175,6 +180,11 @@
     <Text Include="README.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="..\..\..\..\..\Games Programmin%27 -CMP105\Weel 11\CMP105_W11\Week11\CMP105App\Cannon.h" />
+    <ClInclude Include="..\..\..\..\..\Games Programmin%27 -CMP105\Weel 11\CMP105_W11\Week11\CMP105App\CannonBall.h" />
+    <ClInclude Include="..\..\..\..\..\Games Programmin%27 -CMP105\Weel 11\CMP105_W11\Week11\CMP105App\Collision2.h" />
+    <ClInclude Include="..\..\..\..\..\Games Programmin%27 -CMP105\Weel 11\CMP105_W11\Week11\CMP105App\MapSet.h" />
+    <ClInclude Include="..\..\..\..\..\Games Programmin%27 -CMP105\Weel 11\CMP105_W11\Week11\CMP105App\Tank.h" />
     <ClInclude Include="Framework\Animation.h" />
     <ClInclude Include="Framework\AudioManager.h" />
     <ClInclude Include="Framework\Collision.h" />
